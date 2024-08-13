@@ -13,4 +13,4 @@
 ![Image](Datasets/img/orders_per_hour.PNG)
 
 ## Technologies
-- This was written Jupyter Nootbook and Python
+- This was written Jupyter Notebook and Python
