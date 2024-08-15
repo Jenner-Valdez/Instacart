@@ -12,5 +12,9 @@
 ![Image](Datasets/img/orders_per_day.PNG)
 ![Image](Datasets/img/orders_per_hour.PNG)
 
+## Conclusion
+- The busiest days to place orders are monday and tuesday.
+- After 7 am a lot of customer start placing order.
+
 ## Technologies
 - This was written Jupyter Notebook and Python
